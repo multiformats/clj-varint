@@ -25,17 +25,3 @@
 
   ReadVarInt
   (read-int [this] (VarInt/getVarInt this)))
-
-;; (extend-protocol WriteVarInt
-;;   OutputStream
-;;   (write-int [this value] (.putVarInt this value))
-
-;;   ByteBuffer
-;;   (write-int [this value] (.putVarInt this value)))
-
-;; (extend-protocol ReadVarInt
-;;   InputStream
-;;   (read-int [this] (.getVarInt this))
-
-;;   ByteBuffer
-;;   (read-int [this] (.getVarInt this)))
