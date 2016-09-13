@@ -31,7 +31,7 @@ Small note: If editing the Readme, please conform to the [standard-readme](https
 
 ## License
 
-Copyright © 2016 Erwin Kroon
+Copyright © 2016 MPARE
 
 Distributed under the [Eclipse Public License](LICENSE) either version 1.0 or (at
 your option) any later version.
