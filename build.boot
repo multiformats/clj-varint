@@ -1,5 +1,5 @@
-(def project 'mpare-net/clj-varint)
-(def version "0.1.0-SNAPSHOT")
+(def project 'multiformats/clj-varint)
+(def version "0.2.0-SNAPSHOT")
 
 (set-env! :resource-paths #{"resources" "src/clj"}
           :source-paths   #{"src/java" "test"}
