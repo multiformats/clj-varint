@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/project-multiformats-blue.svg?style=flat-square)](https://github.com/multiformats/multiformats)
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](https://webchat.freenode.net/?channels=%23ipfs)
 [![](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
+[![Build Status](https://travis-ci.org/multiformats/clj-varint.svg?branch=master)](https://travis-ci.org/multiformats/clj-varint)
 
 > Simple wrapper around Bazel VarInt code.
 
